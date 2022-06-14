@@ -1,6 +1,6 @@
-#!/usr/bin/bash
+#!/bin/python
 
-ls
-cat /etc/passwd
+print "Hello World"
+
 
 
