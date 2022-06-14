@@ -1,5 +1,5 @@
-# learning-shell
+# Learn Shell Scripting 
 
-# Learn Bash Shell 
-
-Test line
+Topics:
+--------
+1. 
