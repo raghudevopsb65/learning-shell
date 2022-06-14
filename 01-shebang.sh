@@ -1,6 +1,5 @@
-#!/bin/python
+#!/bin/bash
 
-print "Hello World"
+ls
 
-
-
+# This is a comment
