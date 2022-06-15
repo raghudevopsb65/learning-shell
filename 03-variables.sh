@@ -11,3 +11,7 @@ b=$((3+5))
 
 echo $b
 
+# Command Substitution
+DATE=$(date +%F)
+
+echo Welcome, TOday date is $DATE
