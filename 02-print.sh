@@ -33,3 +33,5 @@ echo -e "a\tb"
 
 echo -e "\e[31mHello in RED Color\e[0m"
 echo "Hello in Normal text color"
+
+# More options reference : https://misc.flogisoft.com/bash/tip_colors_and_formatting
