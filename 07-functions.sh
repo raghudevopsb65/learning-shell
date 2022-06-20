@@ -16,7 +16,7 @@ function xyz() {
 # Main Program
 a=10
 ## Access the function
-abc
+abc 20000
 echo b = $b
 
 echo First Argument in Main Program = $1
