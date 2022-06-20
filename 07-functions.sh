@@ -5,7 +5,7 @@ abc() {
   echo ABC Function
   echo a= $a
   b=20
-  echo First Argument = $1
+  echo First Argument in Functionr = $1
 }
 
 # Declare another function
@@ -19,4 +19,4 @@ a=10
 abc
 echo b = $b
 
-echo First Argument = $1
+echo First Argument in Main Program = $1
